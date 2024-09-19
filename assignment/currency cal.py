@@ -1,0 +1,6 @@
+print("Convert rupees into dollar")
+rupee=int(input("Enter Amount in rupees= "))
+rsindollar=(rupee/84)
+print(rupee ,"Rupees Convert to ", rsindollar, "Dollar")
+dollartors=(rsindollar * 84)
+print(rsindollar,"Dollar is ",dollartors, "Rupees")
